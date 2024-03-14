@@ -1,16 +1,15 @@
-### Hi there 👋
+## < hello_world />
+Olá, espero que tudo esteja bem com você.
+- Meu nome é **Vinicius** e eu vivo em São Paulo, Brasil.
+- Sou **Desenvolvedor Web** e estudante de **Tecnologia da Informação** na Univesp.
 
-<!--
-**viniciuscsc/viniciuscsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato
+<a href="https://www.linkedin.com/in/vinicius-csc/" target="_blank"><img src="./linkedin.png" width="40px"></a>
+<a href="mailto:vinicius.csc@icloud.com" target="_blank"><img src="./o-email.png" width="40px"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+<img src="./icons/git.png" alt="git icon" width="40px">
+<img src="./icons/github-mark-white.png" alt="github icon" width="40px">
+<img src="./icons/html-5.png" alt="html icon" width="40px">
+<img src="./icons/css-3.png" alt="css icon" width="40px">
+<img src="./icons/js.png" alt="javascript icon" width="40px">
