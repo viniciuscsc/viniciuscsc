@@ -1,7 +1,7 @@
 ## < hello_world />
-Olá, espero que tudo esteja bem com você.
+Olá, espero que você esteja bem.
 - Meu nome é **Vinicius** e eu vivo em São Paulo, Brasil.
-- Sou **Desenvolvedor Web** e estudante de **Tecnologia da Informação** na Univesp.
+- Sou **Desenvolvedor de software** e estudante de **Tecnologia da Informação** na Univesp.
 
 ## Contato
 <a href="https://www.linkedin.com/in/vinicius-csc/" target="_blank"><img src=".//icons/linkedin.png" width="40px"></a>
